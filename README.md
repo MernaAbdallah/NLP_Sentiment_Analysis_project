@@ -1,0 +1,3 @@
+In this project, we embark on the task of automatically categorizing movie reviews into positive and negative sentiments. Leveraging the Sentiment Polarity Dataset v2.0, comprising 1000 positive and 1000 negative processed reviews, our objective is to develop a robust model capable of accurately discerning the sentiment expressed within each review. 
+
+The Sentiment Polarity Dataset v2.0, introduced by Pang and Lee at ACL 2004, consists of 1000 positive and 1000 negative processed reviews. Each review has been meticulously labeled to reflect its sentiment polarity, thereby providing a balanced and comprehensive dataset for sentiment analysis tasks. The dataset is accompanied by a README file, offering insights into its structure and contents.
